@@ -12,20 +12,23 @@ This tool is perfect for quickly extracting insights from multiple news articles
 
 ---
 
-## 📸 Demo
-👉 Enter up to **3 news URLs** in the sidebar  
-👉 Click **Process URLs** to load, split, and index the content  
-👉 Ask any **question** in the input box  
-👉 Get an **AI-generated answer** along with **sources** 🚀
-
----
-
 ## ⚙️ Features
 - Load and process news articles directly from URLs  
 - Chunk and embed text with **Google Generative AI embeddings**  
 - Store and retrieve vectors using **FAISS**  
 - Answer user questions with **Google Gemini (LangChain QA)**  
 - Cite sources for transparency  
+
+---
+
+## 📸 Demo
+👉 Enter up to **3 news URLs** in the sidebar  
+👉 Click **Process URLs** to load, split, and index the content  
+👉 Ask any **question** in the input box  
+👉 Get an **AI-generated answer** along with **sources** 🚀
+
+<img width="1919" height="839" alt="Screenshot 2025-08-26 232956" src="https://github.com/user-attachments/assets/d716cd8f-b113-46e3-9a78-30d80de9c7e0" />
+<img width="1919" height="864" alt="Screenshot 2025-08-26 232706" src="https://github.com/user-attachments/assets/1597c2eb-5e31-4f49-a228-95df515e383a" />
 
 ---
 
